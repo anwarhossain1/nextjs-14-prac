@@ -1,5 +1,7 @@
+import Card from "@/components/ui/Card";
+
 const page = () => {
-  return <div>Analytics</div>;
+  return <Card>Analytics</Card>;
 };
 
 export default page;

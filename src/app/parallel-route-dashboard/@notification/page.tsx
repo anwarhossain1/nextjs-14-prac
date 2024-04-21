@@ -1,5 +1,7 @@
+import Card from "@/components/ui/Card";
+
 const page = () => {
-  return <div className="p-2 border-s-orange-50">Notification</div>;
+  return <Card>Notification</Card>;
 };
 
 export default page;
