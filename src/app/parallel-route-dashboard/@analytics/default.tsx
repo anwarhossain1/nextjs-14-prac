@@ -1,7 +1,7 @@
 import Card from "@/components/ui/Card";
 
 const page = () => {
-  return <Card>Notification </Card>;
+  return <Card>Analytics</Card>;
 };
 
 export default page;

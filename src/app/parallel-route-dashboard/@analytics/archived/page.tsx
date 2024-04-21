@@ -5,8 +5,8 @@ const page = () => {
   return (
     <Card>
       <div className="flex flex-row gap-4">
-        Analytics
-        <Link href="/parallel-route-dashboard/archived">archived</Link>
+        Archived
+        <Link href="/parallel-route-dashboard">default</Link>
       </div>
     </Card>
   );
