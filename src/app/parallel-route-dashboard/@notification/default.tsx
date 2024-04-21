@@ -1,7 +1,7 @@
 import Card from "@/components/ui/Card";
 
-const page = () => {
+const Default = () => {
   return <Card>Notification </Card>;
 };
 
-export default page;
+export default Default;
